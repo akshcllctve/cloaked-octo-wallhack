@@ -55,7 +55,7 @@ One of my Reflexology teachers, modern day scientist and medical doctor from Bar
 
 It means within an hour we can work on all major reflexes in both feet and help you to obtain the desirable state of relaxation between Alpha, Theta or Delta brain waves. 
 
-If you are interested in the brain research, check out Erik Hoffman book ["New Brain, New World"](http://www.newbrainnewworld.com/) Facinating.
+If you are interested in the brain research, check out Erik Hoffman book <span class="pea">["New Brain, New World"](http://www.newbrainnewworld.com/)</span> Facinating.
 
 
 
