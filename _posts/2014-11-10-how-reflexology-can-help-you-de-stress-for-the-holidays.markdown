@@ -51,7 +51,7 @@ Gamma - (30-42 Hz) correlate with high energy states and ecstasy.
 
 
 
-One of my Reflexology teachers, modern day scientist and medical doctor from Barcelona, Spain -Dr. Jesus Manzanares,  in his reflexology research on the adaptation phenomenon determined the most effective length of time to apply reflexology in one reflex area of the foot. His diagrams show the EEG findings as it relates to change in amplitude of brain waves. Brain wave amplitude INCREASES when there are lower brain wave ranges present (i.e., alpha, theta, delta). Dr. Manzanares conclusions based on EEG data -  reflexology to be most effective with the highest amplitude occurring after 1.5 minutes and up to 4.5 minutes of continuous reflexology.  What does it mean for our Reflexology practice?
+One of my Reflexology teachers, modern day scientist and medical doctor from Barcelona, Spain -Dr. Jesus Manzanares,  in his <a href="http://www.manzanaresmethod.com/research/" target="_blank">reflexology research</a> on the adaptation phenomenon he determined the most effective length of time to apply reflexology in one reflex area of the foot. His diagrams show the EEG findings as it relates to change in amplitude of brain waves. Brain wave amplitude INCREASES when there are lower brain wave ranges present (i.e., alpha, theta, delta). Dr. Manzanares conclusions based on EEG data -  reflexology to be most effective with the highest amplitude occurring after 1.5 minutes and up to 4.5 minutes of continuous reflexology.  What does it mean for our Reflexology practice?
 
 It means within an hour we can work on all major reflexes in both feet and help you to obtain the desirable state of relaxation between Alpha, Theta or Delta brain waves. 
 
