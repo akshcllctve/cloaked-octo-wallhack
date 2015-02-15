@@ -2,7 +2,7 @@ body {
   background-image: url('/img/symbolbackground.jpg');
   background-attachment: fixed;
   padding-top: 0px;
-  color: #fee5c7;
+  color: #292020;
 
 }
 
@@ -133,7 +133,7 @@ h3,
 
 h4,
 .h4 {
-    color: #fee5c7;
+    color: #ffe6dc;
 
     font-size: 22px;
      font-weight: 200;
@@ -142,7 +142,7 @@ h4,
 
 h6,
 .h6 {
-    color: #fee5c7;
+    color: #ffe6dc;
 
     font-size: 18px;
      font-weight: 200;
@@ -417,7 +417,7 @@ h6,
 
   background-color: #ca2222;
   padding: 3px;
-  color: #fee5c7;
+  color: #ffe6dc;
 
 
 
@@ -512,7 +512,7 @@ border-width: 2px;
   font-size: 22px;
      font-weight: 100;
   line-height: 1.4;
-   color: #fee5c7;
+   color: #ffe6dc;
 }
 .contact-small {
 
@@ -547,7 +547,7 @@ blockquote {
   border-right: 5px solid #8c8632;
 }
 .black {
-  background-color: #222;
+  background-color: #ffe6dc;
 }
 
 p {
@@ -567,7 +567,7 @@ color: #fb001f;
 }
 
 .cream {
-color: #fee5c7;
+color: #ffe6dc;
 }
 .pea {
 color: #8c8632;
@@ -595,7 +595,7 @@ color: #2e0101;
 }
 
 .blood {
-  background-color: #292020;
+  background-color: #ffe6dc;
 }
 
 
@@ -810,7 +810,7 @@ width: 100%;
 }
 
 .film-full {
-  background-color: rgba(46, 1, 1, 1);
+  background-color: #ffe6dc;
 }
 
 #logos {

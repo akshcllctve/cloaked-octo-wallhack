@@ -9,7 +9,7 @@ published: true
 <h1>{{ page.title }}</h1>
 
 
-<img class="img-responsive pull-right space" src="/img/angel.jpg">
+<img class="img-responsive pull-left space" src="/img/angel.jpg">
 
 
 Let’s face it, during the holiday season we are all guilty of the hustle and bustle the season brings and often think of ourselves last!  Planning family gatherings and meals, or planning to travel to the gathering, plus holiday shopping always  takes a toll on the body mind.  It is self-loving! (and nothing wrong with loving yourself, I must insist)  to come to a reflexology/reiki session during this pre-festive time! You are permitted :-) to be still for one hour or more, with no place to go, totally relaxed and at one with yourself.  The primary advantage to a reflexology/reiki session is to be into a totally relaxed state known as the alpha-state.  More on the science of alpha state  brain wave later. The best part is that this relaxation state can carry forward during those really busy days. 
